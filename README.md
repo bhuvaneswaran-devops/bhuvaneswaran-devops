@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Bhuvaneswaran Asokan 👋
 
-<!--
-**bhuvaneswaran-devops/bhuvaneswaran-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AMS Engineer | Azure Certified | Aspiring DevOps Engineer
 
-Here are some ideas to get you started:
+I'm an Application Management Support Engineer working toward becoming a Complete DevOps Engineer. I enjoy troubleshooting issues, automating repetitive tasks, and building reliable infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+- **Cloud:** Microsoft Azure
+- **Operating Systems:** Linux, Ubuntu
+- **Containers:** Docker, Docker Compose
+- **Infrastructure as Code:** Terraform
+- **CI/CD:** GitHub Actions, Jenkins
+- **Orchestration:** Kubernetes
+- **Version Control:** Git, GitHub
+- **Scripting:** Bash
+
+## 📜 Certification
+
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+
+## 🚀 Featured Projects
+
+Projects are currently in development. I'll be publishing hands-on work covering:
+
+- Linux administration and automation
+- Docker-based application deployment
+- CI/CD pipeline implementation
+- Azure infrastructure with Terraform
+- Kubernetes application deployment
+- Monitoring and observability
+
+## 🎯 Career Goal
+
+To become a skilled DevOps Engineer who builds secure, automated, reliable, and scalable cloud infrastructure.
+
+---
+
+*Learning by building. Improving through practice.*
